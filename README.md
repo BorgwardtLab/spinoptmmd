@@ -8,7 +8,7 @@ This folder contains all the code to reproduce the experiments from our submissi
 - The code in the ```src``` folder is closely modeled on Jitkrittum et al., but it has been refactored and extended for SpInOpt-MMD.
 - The experiments in the ```experiments``` folder are closely modeled on the experimental setting of Jitkrittum et al. for best comparability.
 
-Therefore, we include the the original license and copyright statement in the ```jitkrittum``` folder (```LICENSE_interpretable-test.txt```).  
+Therefore, we include the original license and copyright statement in the ```jitkrittum``` folder (```LICENSE_interpretable-test.txt```).  
 Please note that this copyright applies to all parts on the code which are taken from Jitkrittum et al.
 
 ### Data
@@ -16,8 +16,8 @@ All data used in this analysis was obtained from public repositories (that may r
 These include: 
 
 Benchmark data sets: 
-- Karolinska faces data:
-- NIPS data: 
+- [Karolinska faces data](https://kdef.se/)
+- [NIPS Paper dataset](https://www.kaggle.com/datasets/benhamner/nips-papers) 
 
 Biological data sets
 - ADNI data: MR images obtained from [https://adni.loni.usc.edu/](https://adni.loni.usc.edu/) - check [this publication](https://proceedings.mlr.press/v149/bruningk21a.html) for details regarding patient selection and data preprocessing 
