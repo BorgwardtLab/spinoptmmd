@@ -22,6 +22,6 @@ Benchmark data sets:
 Biological data sets
 - ADNI data: MR images obtained from [https://adni.loni.usc.edu/](https://adni.loni.usc.edu/) - check [this publication](https://proceedings.mlr.press/v149/bruningk21a.html) for details regarding patient selection and data preprocessing 
 - PBMC data: data were obtained from [10X Genomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc3k) - check [this publication](https://doi.org/10.1038/nbt.3192) for details regarding data preprocessing.
-- DRIAMS data: data were obtained from [the Dryad repository](https://doi.org/10.5061/dryad.bzkh1899q) - check [this publication](https://doi.org/10.1038/s41591-021-01619-9) for details regarding data preprocessing for the two selected examples
+- DRIAMS data: data were obtained from [the Dryad repository](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bzkh1899q) - check [this publication](https://doi.org/10.1038/s41591-021-01619-9) for details regarding data preprocessing for the two selected examples
 - TCGA LGG whole genome sequencing data (ATRX mutation status) were obtained from [https://portal.gdc.cancer.gov/](https://portal.gdc.cancer.gov/)
 - TCGA-LGG MR images were obtained from [The Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=5309188)
